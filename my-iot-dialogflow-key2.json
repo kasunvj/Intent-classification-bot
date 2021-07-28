@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-iot-f5811",
+  "private_key_id": "4aeca7b013116a44a0495b475173a0fd0ae733be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjVyzNDj3OqV54\nX4q7l2AnfCXWLt95N3RQDVyv4kDpujhf9u9I1kg5k8OrkMvLgKlIbNoYwkc+Z4fv\n4lZnp2TYISjGho7ZvgRfCHDsu78EwKCahyXpAdeSY4l0ilFyzZ1RsG5lLWZboVEc\nkyaRa0dyyW01qZXzNI4AEsT/KXzj38r8notXbjdcrVfXVk0UvaWLdCk0EvurQ1lz\n10XRLdJb7fl/QETkGsrdo4Na366ZckEgW+dsmO/h5QdOenOffQOy37RXUDQ6tzXw\nF2SrXFPNkUT44en5U8lPunyD9V3iv3Z65zAu98XlEzwmYz/YKfIIqOOswNzQMWwU\n1tw1zwB9AgMBAAECggEADShQtbnlH63EAYqiCHIYBEY7XrFK6MmfRx2JxFSY6bBJ\nqe1LIYEQCKykUUB/h3E3RwbBsMc26Z95s0ihBjDVQ5W0N6hk1G8P4hSHfYJdekVc\nCpFCwVjCeTUnFZSuHUMpM4iJ9ADVYyHaVfoX3BSaCPSR0AX3oW4v1sYBnr5ETwS5\ny24d4GuJQO48SQtDikuK+U97fg3qj3cqZzBZfTQdeDYWb+3IEipPDpwyih3DzLTa\n/iqOah4oxLefdOI0T7PwOjBUxhYdsxFU4cA2xm1lE+wHiZpW5yeRwfiJWCiPjRCb\nFG2cSKrnljBrEIkOSl4b2GBxn92wdm2FItbxHw2ebwKBgQDa4CPbNdAhuc6p4T03\ngQwmuiPoDGBXX64cgcJpTB2vsZ3dgOwf1znfev/NU9U8YhLlIA2OVZTNF3vY6kHF\nJieZVs1AlJqNn8Ol/xsTG3EgcuSbCwzo6IlvrnzHWfhK2BC3CagPDeUuDSROr/kw\nHL6rLwxb7IC9GBxLQvq3+pms4wKBgQC/C6HlPredj/NBDs+EXxEeHVHMtvcbjVgQ\nJUb+eFQlVSxpYv8hGcqgWuzIMFuaOVhXsUC3uxIfmJ1FF//jKmJC44AvOG4zC/xl\n/9odLOOJ3ZlZfV4kA0dNqpoca1pdIdaX86ApJCadxWzTeQsQpBlawcV9fvbgTzfk\n7BMNl/Z7HwKBgQC+AqNeJGNhQ+rzc4QvcSpZXHLbehMRBxEh0kwyGVAUPH+t0cQr\nCC9HoYH8gHC3kPSSULcz/3vEaESt1P/v5OWvqrlY/SkHFdFFhCe++K3G27c2GevF\nLkpR2AqfDa4NW3F3VTy+hPOWfPYuEXqkl++2sItsKe7BOfMmKyl5GmbavQKBgAFg\nPBJCmV/xIXdee/AgHydwXp5y0uTH59J18kTy6Og77M31gJDkdqkg/oOSlZZOw2we\nQrEQD9laaAePXLBuJbcFnG66oVCMzYyOgyuinyDnD6utU3g+7cyJZgK+YzA4hish\n/g1NzVllipsbTBEanXQh4SI+P9jtuSFU8e4vIf9RAoGAEgRvAnbxD/9eiT2APDRJ\n29jx3B3DlIrspk1NlLeXwQyMDatzzl7APQz+OA/BpAnMbWZktMQeB5qzRMnwTKpT\nyZuBAAkSKTWOUQgk77BgN0o0CbU/c0wp2w5rnwH6kyh0t1Ka6MsAem+Qj/uQzd+a\nz9qpmFe2I3IWadQWfmI0Du8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow2@my-iot-f5811.iam.gserviceaccount.com",
+  "client_id": "111234156754051814706",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow2%40my-iot-f5811.iam.gserviceaccount.com"
+}
